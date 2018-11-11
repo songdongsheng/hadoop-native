@@ -1,0 +1,5 @@
+*               -text
+
+.*              text eol=lf
+*.asc           text eol=lf
+*.md            text eol=lf
