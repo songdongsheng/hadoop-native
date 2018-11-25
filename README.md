@@ -74,3 +74,4 @@ protobuf-compiler-2.5.0-8.el7.x86_64
 + [2.7.7/Linux-x64](2.7.7/Linux-x64)
 + [2.8.5/Linux-x64](2.8.5/Linux-x64)
 + [2.9.1/Linux-x64](2.9.1/Linux-x64)
++ [2.9.2/Linux-x64](2.9.2/Linux-x64)
